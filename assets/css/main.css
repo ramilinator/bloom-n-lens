@@ -54,8 +54,8 @@
 .light-background {
   --background-color: #F0E7D8;
   --surface-color: #BDAB93;
-  --heading-color: #5A684E;
-  --default-color: #5A684E;
+  --heading-color: #ffffff;
+  --default-color: #ffffff;
 }
 
 .dark-background {
